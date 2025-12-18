@@ -38,43 +38,4 @@ Each folder represents a **specific React concept or milestone** in my learning 
  ┗ 📂 18-Context-Api          # Global state using Context API
 
 
-## 🧠 Concepts Learned (Mapped to Course)
-
-This section highlights the **core and advanced React concepts** I learned and practiced throughout this journey.  
-Each topic was explored with a **hands-on approach**, focusing on **real-world usage, best practices, and scalable application design**, rather than just theory.
-
-### 🌱 React Fundamentals
-- What is React & why it’s used
-- JSX & component-based architecture
-- Virtual DOM & re-rendering behavior
-
-### 🧩 Components & Props
-- Functional components
-- Props & children
-- Reusability & composition
-
-### ⚡ State Management
-- `useState` deep dive
-- Immutable updates (objects & arrays)
-- Event-driven UI updates
-
-### 🔄 Forms & Data Handling
-- Controlled vs uncontrolled inputs
-- Two-way binding
-- Form validations & submissions
-
-### 📡 API Integration
-- Fetch & Axios
-- Loading, error & empty states
-- Real-time data rendering
-
-### 🛣️ Routing (React Router v6+)
-- Nested routes
-- Dynamic routes with params
-- 404 pages
-- Advanced routing patterns
-
-### 🧰 Context API
-- Solving prop drilling
-- Global state management
-- Auth-style context patterns
+ 
